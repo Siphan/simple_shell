@@ -1,10 +1,3 @@
-/*
- * This program is a UNIX command line interpreter
- * Created by:
- * Asaia Palacios & Siphan Bou
- * Date:
- * May 11, 2016
- */
 #include <unistd.h>
 #include "libshell.h"
 #include <stdlib.h>
